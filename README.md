@@ -26,6 +26,7 @@ Each successful catch adds to your score — the faster and more accurate you ar
 - 💡 **Clean code — great for beginners learning JavaScript games**
 
 ---
+## 🧩 Folder Structure
 bird-catcher-game/
 │
 ├── index.html # Main game file
@@ -68,5 +69,5 @@ A timer or score counter tracks your performance.
 🏆 Add a high score leaderboard using localStorage
 
 📈 Add difficulty levels and power-ups
-## 🧩 Folder Structure
+
 
